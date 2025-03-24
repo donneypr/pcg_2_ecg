@@ -507,6 +507,3 @@ for epoch in range(1000):
 
     torch.save(enc_optim.state_dict(), '{}/enc_opt_{}.tm'.format(dirname, code))
     torch.save(dis_optim.state_dict(), '{}/dec_opt_{}.tm'.format(dirname, code))
-
-
-

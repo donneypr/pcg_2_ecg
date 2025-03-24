@@ -1,9 +1,0 @@
-h5py
-scikit-learn
-numpy
-torch
-torchaudio
-torchvision
-matplotlib
-pandas
-seaborn
